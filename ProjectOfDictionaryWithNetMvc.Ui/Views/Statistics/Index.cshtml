@@ -1,0 +1,15 @@
+﻿@model ProjectOfDictionaryWithNetMvc.Entities.Concrete.Category
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Toplam Kategori Sayısı :@ViewBag.categorySum</h2>
+<br />
+<h2>Başlık Tablosuna ait yazılım kategorisi:@ViewBag.softSum</h2>
+<br />
+<h2>A harfi geçen yazar sayısı : @ViewBag.aWriter</h2>
+<br />
+<h2>En fazla başlığa sahip kategori:@ViewBag.MaxCat</h2>
+<br />
+<h2>Kategori durum farkı : @ViewBag.Fark</h2>

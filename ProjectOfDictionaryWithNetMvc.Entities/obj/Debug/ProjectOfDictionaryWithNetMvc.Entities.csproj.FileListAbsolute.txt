@@ -1,0 +1,12 @@
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\bin\Debug\ProjectOfDictionaryWithNetMvc.Entities.dll.config
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\bin\Debug\ProjectOfDictionaryWithNetMvc.Entities.dll
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\bin\Debug\ProjectOfDictionaryWithNetMvc.Entities.pdb
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\bin\Debug\EntityFramework.dll
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\bin\Debug\EntityFramework.xml
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\obj\Debug\ProjectOfDictionaryWithNetMvc.Entities.csproj.AssemblyReference.cache
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\obj\Debug\ProjectOfDictionaryWithNetMvc.Entities.csproj.CoreCompileInputs.cache
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\obj\Debug\ProjectOfDictionaryWithNetMvc.Entities.csproj.CopyComplete
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\obj\Debug\ProjectOfDictionaryWithNetMvc.Entities.dll
+C:\Users\enes.cicek\source\repos\ProjectOfDictionaryWithNetMvc\ProjectOfDictionaryWithNetMvc.Entities\obj\Debug\ProjectOfDictionaryWithNetMvc.Entities.pdb
